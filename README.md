@@ -1,6 +1,5 @@
 # portfolio-project
 
-**Remember that this project cannot be submitted late.**
 
 Create a class called **ChessVar** to implement an abstract board game based on a chess variant known as "King Of The Hills". The following rule explanation assumes you have some knowledge of standard chess rules, particularly regarding how the pieces move and capture. If you're unsure about any of these rules, feel free to reach out with questions.
 
@@ -60,13 +59,7 @@ True
 
 ```
 
-The file must be named: **ChessVar.py**
 
-
-How to Start: If you are not familiar with chess, please take a look at the Wikipedia page[(https://en.wikipedia.org/wiki/Chess)](https://en.wikipedia.org/wiki/Chess), especially focusing on how each type of piece moves on the board. Then, grab a piece of paper and draw a board on it. Mark each space with notations and label them with their respective index in the list. For instance, position ‘a8’ corresponds to index [0][0], ‘b8’ to [0][1], … ‘a7’ to [1][0], … and ‘h1’ to [7][7].
-
-Things to Think About: This project is an excellent opportunity to use inheritance, though it’s not strictly required here. 
-We require the board to be returned as a nested list, but you’re welcome to design your own board structure with additional information as needed. Just make sure to output the required board format for auto-testing purpose.
 
 
 
